@@ -19,7 +19,7 @@
 
 <h3 align = "left"> Connect with me: </h3>
 <p align="center">
-<a href = "https://www.linkedin.com/in/nafis-saadiq/" target = "blank"> <img align = "left" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgH3T8q0pkC1P9HT76Q6vEIco0IxX8cOzPhQ&usqp=CAU" alt = "https://www.linkedin.com/in/nafis-saadiq/" height = "40" width = "40"> </a>
+<a href = "https://www.linkedin.com/in/nafis-saadiq/" target = "blank"> <img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt = "https://www.linkedin.com/in/nafis-saadiq/" height = "40" width = "40"> </a>
 
  
 </p>
