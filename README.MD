@@ -26,5 +26,5 @@
 <p>
 <h3 align = "left"> Languages and Tools: </h3>
 </p>
-<p align = "left"> <a href = "https://www.python.org/" target = "blank"> <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" alt = "python" height = "40" width = "40"> </a> <a href = "https://www.vectorlogo.zone/logos/java/java-icon.svg" target = "blank"> <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" alt = "java" height = "40" width = "40"> </a> <a > <img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt = "C" height = "40" width = "40"></a>
+<p align = "left"> <a href = "https://www.python.org/" target = "blank"> <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" alt = "python" height = "40" width = "40"> </a> <a href = "https://www.vectorlogo.zone/logos/java/java-icon.svg" target = "blank"> <img src = "https://www.vectorlogo.zone/logos/java/java-icon.svg" alt = "java" height = "40" width = "40"> </a> <a > <img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt = "C" height = "40" width = "40"></a> <a href = https://www.javascript.com/> <img src = "https://www.freepnglogos.com/uploads/javascript-png/js-logo-png-5.png" alt = "JavaScript" height = "40" width = "40"> </a>
 </p>
