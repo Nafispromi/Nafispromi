@@ -9,7 +9,10 @@
  
 </p>
 - 🛰 I'm currently working on Object Detection Problem of [SPOT](https://www.bostondynamics.com/products/spot)
+
 - 🌱 I'm currently learning Swift, Django, C# and C++
+
 - 🍂 I'm interested in back-end and full stack development, game development, computer vision, machine learning
+
 - 📫 Reach me at **nafis.saadiq.bhuiyan@colby.edu
 
