@@ -23,7 +23,8 @@
 <a href = "https://www.linkedin.com/in/nafis-saadiq/" target = "blank"> <img align = "left" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt = "https://www.linkedin.com/in/nafis-saadiq/" height = "40" width = "40"> </a>
 </p>
 
-
+<p>
 <h3 align = "left"> Languages and Tools: </h3>
+</p>
 <p align = "left"> <a href = "" target = "blank"> <img src = "https://www.vectorlogo.zone/logos/python/python-icon.svg" alt = "python" height = "40" width = "40"> </a>  
 </p>
