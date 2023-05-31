@@ -17,3 +17,9 @@
 
 - 📫 Reach me at **nafis.saadiq.bhuiyan@colby.edu
 
+<h3 align = "left"> Connect with me: </h3>
+<p align="center">
+<a href = "https://www.linkedin.com/in/nafis-saadiq/" target = "blank"> <img src = "[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Fpng%2F18930587-linkedin-logo-png-linkedin-icon-transparent-png&psig=AOvVaw0C7wHHuW0tEdGOKqXuU71l&ust=1685584264538000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMi-6eu4nv8CFQAAAAAdAAAAABAE](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgH3T8q0pkC1P9HT76Q6vEIco0IxX8cOzPhQ&usqp=CAU)">
+ <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadiqnafis&layout=compact&theme=radical&custom_title=Languages"/>
+ 
+</p
