@@ -9,7 +9,7 @@
  
 </p>
 
-- 🛰 I'm currently working on Object Detection Problem of [SPOT](https://www.bostondynamics.com/products/spot)
+- 🛰 I'm currently working on Object Detection of [SPOT](https://www.bostondynamics.com/products/spot) (an agile mobile robot made by Boston Dynamics)
 
 - 🌱 I'm currently learning Swift, Django, C# and C++
 
